@@ -1,16 +1,23 @@
-# myapp
+# NoteApp
 
-A new Flutter project.
+NoteApp est une application Flutter qui permet aux utilisateurs de créer, modifier, supprimer et afficher des notes dans une grille colorée.
 
-## Getting Started
+## Fonctionnalités
 
-This project is a starting point for a Flutter application.
+- Création de nouvelles notes avec un titre, une description et une couleur personnalisée
+- Modification des notes existantes
+- Suppression des notes
+- Affichage des notes dans une grille
 
-A few resources to get you started if this is your first Flutter project:
+## Prérequis
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK
+- Android Studio ou VS Code avec les plugins Flutter et Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. Clonez le dépôt
+
+   ```bash
+   git clone https://github.com/votre-utilisateur/NoteApp.git
+   cd NoteApp
